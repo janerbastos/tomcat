@@ -1,0 +1,3 @@
+export JAVA_HOME=${var:jre_home}
+export PATH=$JAVA_HOME/bin:$PATH
+export CATALINA_HOME=${var:catalina_home}
